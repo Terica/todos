@@ -1,15 +1,12 @@
 # README
 
-This is a Thoughtbot app; I am developing with Josh Clayton leading.
+* Ruby version 2.4.2
 
-* Ruby version
-
-* System dependencies
+* System dependencies 
 
 * Configuration
   - run generator without TestUnit
   - clean up the Gemfile; removing comments and creating the groups and gem calls
-  - I am using thoughtbot dotfiles (curated by Ben O)
   - set up Rspec 
 
 * Database creation
